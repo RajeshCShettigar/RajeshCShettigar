@@ -1,15 +1,4 @@
-- 👋 Hello, homosepiens...
-
-- 👀 I’m interested in ...
-
-- 🌱 I’m currently learning ...
-
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
-
-
-
+- 👋 Hello, homosepiens...  I am a noob here exploring github
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amRajesh)](https://github.com/anuraghazra/github-readme-stats)
