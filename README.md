@@ -1,3 +1,3 @@
-##👋 Hello, Homosepiens..
+#👋 Hello, Homosepiens..
 RAJESH here,
 Exploring new things everyday
