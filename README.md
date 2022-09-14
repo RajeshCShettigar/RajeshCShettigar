@@ -1,2 +1,2 @@
 #👋 Hello, Homosepiens..  RAJESH here,
-Exploring new things everyday
+Exploring new things everyday.
