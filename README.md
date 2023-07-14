@@ -5,6 +5,6 @@
 
 ### Some Trophies I have, don't know what for ;)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RajeshCShettigar&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RajeshCShettigar&column=10&theme=onedark)
 ***
 
