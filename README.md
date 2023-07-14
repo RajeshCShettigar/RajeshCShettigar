@@ -2,4 +2,6 @@
  
 ## I am Rajesh C Shettigar
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshCShettigar&langs_count=10"> </p>
+I am exploring technology on planet earth
+
+![](https://komarev.com/ghpvc/?username=RajeshCShettigar)
